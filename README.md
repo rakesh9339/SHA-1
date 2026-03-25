@@ -1,6 +1,3 @@
-# SHA-1
-# Date : 
-# Register No.:
 # Aim: To implement the SHA-I hashing technique using C program. 
 # ALGORITHM:
 Step1:Initialize Variables
