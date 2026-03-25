@@ -185,4 +185,4 @@ int main() {
 <img width="802" height="301" alt="image" src="https://github.com/user-attachments/assets/43c5b0b2-233f-4207-9cb3-354d7af37887" />
 
 # Result:
-
+Thus the program to To implement the SHA-I hashing technique using C program is executed sucessfully.
